@@ -1,0 +1,1416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <key id="0">
+    <scancode>01</scancode>
+    <label>ESC</label>
+    <type>standard</type>
+    <left>100</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>ESC</description>
+  </key>
+  <key id="1">
+    <scancode>3B</scancode>
+    <label>F1</label>
+    <type>standard</type>
+    <left>180</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F1</description>
+  </key>
+  <key id="2">
+    <scancode>3C</scancode>
+    <label>F2</label>
+    <type>standard</type>
+    <left>220</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F2</description>
+  </key>
+    <key id="3">
+    <scancode>3D</scancode>
+    <label>F3</label>
+    <type>standard</type>
+    <left>260</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F3</description>
+  </key>
+  <key id="4">
+    <scancode>3E</scancode>
+    <label>F4</label>
+    <type>standard</type>
+    <left>300</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F4</description>
+  </key>
+  <key id="5">
+    <scancode>3F</scancode>
+    <label>F5</label>
+    <type>standard</type>
+    <left>360</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F5</description>
+  </key>
+  <key id="6">
+    <scancode>40</scancode>
+    <label>F6</label>
+    <type>standard</type>
+    <left>400</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F6</description>
+  </key>
+  <key id="7">
+    <scancode>41</scancode>
+    <label>F7</label>
+    <type>standard</type>
+    <left>440</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F7</description>
+  </key>  
+  <key id="8">
+    <scancode>42</scancode>
+    <label>F8</label>
+    <type>standard</type>
+    <left>480</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F8</description>
+  </key>    
+  <key id="9">
+    <scancode>43</scancode>
+    <label>F9</label>
+    <type>standard</type>
+    <left>540</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F9</description>
+  </key>
+  <key id="10">
+    <scancode>44</scancode>
+    <label>F10</label>
+    <type>standard</type>
+    <left>580</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F10</description>
+  </key>
+  <key id="11">
+    <scancode>45</scancode>
+    <label>F11</label>
+    <type>standard</type>
+    <left>620</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F11</description>
+  </key>
+  <key id="12">
+    <scancode>46</scancode>
+    <label>F12</label>
+    <type>standard</type>
+    <left>660</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>F12</description>
+  </key>
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <key id="13">
+    <scancode>29</scancode>
+    <label>`~</label>
+    <type>standard</type>
+    <left>100</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>`~</description>
+  </key>
+  <key id="14">
+    <scancode>02</scancode>
+    <label>1!</label>
+    <type>shifting</type>
+    <left>140</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>1!</description>
+  </key>
+  <key id="15">
+    <scancode>03</scancode>
+    <label>2@</label>
+    <type>locked</type>
+    <left>180</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>2@</description>
+  </key>
+  <key id="16">
+    <scancode>04</scancode>
+    <label>3#</label>
+    <type>standard</type>
+    <left>220</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>3#</description>
+  </key>
+  <key id="17">
+    <scancode>05</scancode>
+    <label>4$</label>
+    <type>standard</type>
+    <left>260</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>4$</description>
+  </key>
+  <key id="18">
+    <scancode>06</scancode>
+    <label>5%</label>
+    <type>standard</type>
+    <left>300</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>5%</description>
+  </key>
+  <key id="19">
+    <scancode>07</scancode>
+    <label>6^</label>
+    <type>standard</type>
+    <left>340</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>6^</description>
+  </key>
+  <key id="20">
+    <scancode>08</scancode>
+    <label>7&amp;&amp;</label>
+    <type>standard</type>
+    <left>380</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>7&amp;</description>
+  </key>
+  <key id="21">
+    <scancode>09</scancode>
+    <label>8*</label>
+    <type>standard</type>
+    <left>420</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>8*</description>
+  </key>
+  <key id="22">
+    <scancode>0A</scancode>
+    <label>9(</label>
+    <type>standard</type>
+    <left>460</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>9(</description>
+  </key>
+  <key id="23">
+    <scancode>0B</scancode>
+    <label>0)</label>
+    <type>standard</type>
+    <left>500</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>0)</description>
+  </key>
+  <key id="24">
+    <scancode>0C</scancode>
+    <label>-_</label>
+    <type>standard</type>
+    <left>540</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>-_</description>
+  </key>
+  <key id="25">
+    <scancode>0D</scancode>
+    <label>=+</label>
+    <type>standard</type>
+    <left>580</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>=+</description>
+  </key>
+  <key id="26">
+    <scancode>0E</scancode>
+    <label>BKSP</label>
+    <type>standard</type>
+    <left>620</left>
+    <top>40</top>
+    <width>80</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Backspace</description>
+  </key>
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <key id="27">
+    <scancode>0F</scancode>
+    <label>TAB</label>
+    <type>standard</type>
+    <left>100</left>
+    <top>80</top>
+    <width>60</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>TAB</description>
+  </key>
+  <key id="28">
+    <scancode>10</scancode>
+    <label>qQ</label>
+    <type>standard</type>
+    <left>160</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>qQ</description>
+  </key>
+  <key id="29">
+    <scancode>11</scancode>
+    <label>wW</label>
+    <type>standard</type>
+    <left>200</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>wW</description>
+  </key>
+  <key id="30">
+    <scancode>12</scancode>
+    <label>eE</label>
+    <type>standard</type>
+    <left>240</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>eE</description>
+  </key>
+  <key id="31">
+    <scancode>13</scancode>
+    <label>rR</label>
+    <type>standard</type>
+    <left>280</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>rR</description>
+  </key>
+  <key id="32">
+    <scancode>14</scancode>
+    <label>tT</label>
+    <type>standard</type>
+    <left>320</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>tT</description>
+  </key>
+  <key id="33">
+    <scancode>15</scancode>
+    <label>yY</label>
+    <type>standard</type>
+    <left>360</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>yY</description>
+  </key>
+  <key id="34">
+    <scancode>16</scancode>
+    <label>uU</label>
+    <type>standard</type>
+    <left>400</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>uU</description>
+  </key>
+  <key id="35">
+    <scancode>17</scancode>
+    <label>iI</label>
+    <type>standard</type>
+    <left>440</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>iI</description>
+  </key>
+  <key id="36">
+    <scancode>18</scancode>
+    <label>oO</label>
+    <type>standard</type>
+    <left>480</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>oO</description>
+  </key>
+  <key id="37">
+    <scancode>19</scancode>
+    <label>pP</label>
+    <type>standard</type>
+    <left>520</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>pP</description>
+  </key>
+  <key id="38">
+    <scancode>1A</scancode>
+    <label>[{</label>
+    <type>standard</type>
+    <left>560</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>[{</description>
+  </key>
+  <key id="39">
+    <scancode>1B</scancode>
+    <label>]}</label>
+    <type>standard</type>
+    <left>600</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>]}</description>
+  </key>
+  <key id="40">
+    <scancode>2B</scancode>
+    <label>\|</label>
+    <type>standard</type>
+    <left>640</left>
+    <top>80</top>
+    <width>60</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>\|</description>
+  </key>
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <key id="41">
+    <scancode>3A</scancode>
+    <label>Caps</label>
+    <type>locked_activate</type>
+    <left>100</left>
+    <top>120</top>
+    <width>70</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Caps Lock</description>
+  </key>
+  <key id="42">
+    <scancode>1E</scancode>
+    <label>aA</label>
+    <type>standard</type>
+    <left>170</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>aA</description>
+  </key>
+  <key id="43">
+    <scancode>1F</scancode>
+    <label>sS</label>
+    <type>standard</type>
+    <left>210</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>sS</description>
+  </key>
+  <key id="44">
+    <scancode>20</scancode>
+    <label>dD</label>
+    <type>standard</type>
+    <left>250</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>dD</description>
+  </key>
+  <key id="45">
+    <scancode>21</scancode>
+    <label>fF</label>
+    <type>standard</type>
+    <left>290</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>fF</description>
+  </key>
+  <key id="46">
+    <scancode>22</scancode>
+    <label>gG</label>
+    <type>standard</type>
+    <left>330</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>gG</description>
+  </key>
+  <key id="47">
+    <scancode>23</scancode>
+    <label>hH</label>
+    <type>standard</type>
+    <left>370</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>hH</description>
+  </key>
+  <key id="48">
+    <scancode>24</scancode>
+    <label>jJ</label>
+    <type>standard</type>
+    <left>410</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>jJ</description>
+  </key>
+  <key id="49">
+    <scancode>25</scancode>
+    <label>kK</label>
+    <type>standard</type>
+    <left>450</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>kK</description>
+  </key>
+  <key id="50">
+    <scancode>26</scancode>
+    <label>lL</label>
+    <type>standard</type>
+    <left>490</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>lL</description>
+  </key>
+  <key id="51">
+    <scancode>27</scancode>
+    <label>;:</label>
+    <type>standard</type>
+    <left>530</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>;:</description>
+  </key>
+  <key id="52">
+    <scancode>28</scancode>
+    <label>&apos;&quot;</label>
+    <type>standard</type>
+    <left>570</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>&apos;&quot;</description>
+  </key>
+  <key id="53">
+    <scancode>1C</scancode>
+    <label>Enter</label>
+    <type>standard</type>
+    <left>610</left>
+    <top>120</top>
+    <width>90</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Enter</description>
+  </key>
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <key id="54">
+    <scancode>2A</scancode>
+    <label>Shift</label>
+    <type>shifting</type>
+    <left>100</left>
+    <top>160</top>
+    <width>100</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Left Shift</description>
+  </key>
+  <key id="55">
+    <scancode>2C</scancode>
+    <label>zZ</label>
+    <type>standard</type>
+    <left>200</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>zZ</description>
+  </key>
+  <key id="56">
+    <scancode>2D</scancode>
+    <label>xX</label>
+    <type>standard</type>
+    <left>240</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>xX</description>
+  </key>
+  <key id="57">
+    <scancode>2E</scancode>
+    <label>cC</label>
+    <type>standard</type>
+    <left>280</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>cC</description>
+  </key>
+  <key id="58">
+    <scancode>2F</scancode>
+    <label>vV</label>
+    <type>standard</type>
+    <left>320</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>vV</description>
+  </key>
+  <key id="59">
+    <scancode>30</scancode>
+    <label>bB</label>
+    <type>standard</type>
+    <left>360</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>bB</description>
+  </key>
+  <key id="60">
+    <scancode>31</scancode>
+    <label>nN</label>
+    <type>standard</type>
+    <left>400</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>nN</description>
+  </key>
+  <key id="61">
+    <scancode>32</scancode>
+    <label>mM</label>
+    <type>standard</type>
+    <left>440</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>mM</description>
+  </key>
+  <key id="62">
+    <scancode>33</scancode>
+    <label>&lt;,</label>
+    <type>standard</type>
+    <left>480</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>&lt;,</description>
+  </key>
+  <key id="63">
+    <scancode>34</scancode>
+    <label>&gt;.</label>
+    <type>standard</type>
+    <left>520</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>&gt;.</description>
+  </key>
+  <key id="64">
+    <scancode>35</scancode>
+    <label>/?</label>
+    <type>standard</type>
+    <left>560</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>/?</description>
+  </key>
+  <key id="65">
+    <scancode>36</scancode>
+    <label>Shift</label>
+    <type>locked</type>
+    <left>600</left>
+    <top>160</top>
+    <width>100</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Right Shift</description>
+  </key>
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <key id="66">
+    <scancode>1D</scancode>
+    <label>Ctrl</label>
+    <type>shifting</type>
+    <left>100</left>
+    <top>200</top>
+    <width>60</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Left Control</description>
+  </key>
+  <key id="67">
+    <scancode>5B</scancode>
+    <label>Win</label>
+    <type>standard</type>
+    <left>160</left>
+    <top>200</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Left Windows Key</description>
+  </key>
+  <key id="68">
+    <scancode>38</scancode>
+    <label>Alt</label>
+    <type>shifting</type>
+    <left>200</left>
+    <top>200</top>
+    <width>60</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Left Alt</description>
+  </key>
+  <key id="69">
+    <scancode>39</scancode>
+    <label>SPACE</label>
+    <type>standard</type>
+    <left>260</left>
+    <top>200</top>
+    <width>240</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Space</description>
+  </key>
+  <key id="70">
+    <scancode>38</scancode>
+    <label>Alt</label>
+    <type>locked</type>
+    <left>500</left>
+    <top>200</top>
+    <width>60</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Right Alt</description>
+  </key>
+  <key id="71">
+    <scancode>5C</scancode>
+    <label>Win</label>
+    <type>standard</type>
+    <left>560</left>
+    <top>200</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Right Windows key</description>
+  </key>
+  <key id="72">
+    <scancode>5D</scancode>
+    <label>Menu</label>
+    <type>standard</type>
+    <left>600</left>
+    <top>200</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Menu</description>
+  </key>
+  <key id="73">
+    <scancode>1D</scancode>
+    <label>Ctrl</label>
+    <type>locked</type>
+    <left>640</left>
+    <top>200</top>
+    <width>60</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Right Control</description>
+  </key>
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <key id="74">
+    <scancode>4B</scancode>
+    <label>←</label>
+    <type>standard</type>
+    <left>700</left>
+    <top>200</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>yes</extended>
+    <description>Left Arrow</description>
+  </key>
+  <key id="75">
+    <scancode>50</scancode>
+    <label>↓</label>
+    <type>standard</type>
+    <left>740</left>
+    <top>200</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>yes</extended>
+    <description>Down Arrow</description>
+  </key>
+  <key id="76">
+    <scancode>4D</scancode>
+    <label>→</label>
+    <type>standard</type>
+    <left>780</left>
+    <top>200</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>yes</extended>
+    <description>Right Arrow</description>
+  </key>
+  <key id="77">
+    <scancode>48</scancode>
+    <label>↑</label>
+    <type>standard</type>
+    <left>740</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>yes</extended>
+    <description>Up Arrow</description>
+  </key>
+  <key id="78">
+    <scancode>37</scancode>
+    <label>Prt</label>
+    <type>standard</type>
+    <left>700</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Print Screen</description>
+  </key>
+  <key id="79">
+    <scancode>46</scancode>
+    <label>Scrl</label>
+    <type>locked_activate</type>
+    <left>740</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Scroll Lock</description>
+  </key>
+  <key id="80">
+    <scancode>45</scancode>
+    <label>Pause</label>
+    <type>standard</type>
+    <left>780</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Pause</description>
+  </key>
+  <key id="81">
+    <scancode>52</scancode>
+    <label>Ins</label>
+    <type>standard</type>
+    <left>700</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Insert</description>
+  </key>
+  <key id="82">
+    <scancode>47</scancode>
+    <label>Home</label>
+    <type>standard</type>
+    <left>740</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Home</description>
+  </key>
+  <key id="83">
+    <scancode>49</scancode>
+    <label>PgUp</label>
+    <type>standard</type>
+    <left>780</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>yes</extended>
+    <description>Page Up</description>
+  </key>
+  <key id="84">
+    <scancode>53</scancode>
+    <label>Del</label>
+    <type>standard</type>
+    <left>700</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>yes</extended>
+    <description>Delete</description>
+  </key>
+  <key id="85">
+    <scancode>4F</scancode>
+    <label>End</label>
+    <type>standard</type>
+    <left>740</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>End</description>
+  </key>
+  <key id="86">
+    <scancode>51</scancode>
+    <label>PgDn</label>
+    <type>standard</type>
+    <left>780</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>yes</extended>
+    <description>Page Down</description>
+  </key>
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <!-- Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 Line 3 -->
+  <key id="87">
+    <scancode>45</scancode>
+    <label>Num</label>
+    <type>locked_activate</type>
+    <left>820</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>yes</extended>
+    <description>Num Lock</description>
+  </key>
+  <key id="88">
+    <scancode>35</scancode>
+    <label>/</label>
+    <type>standard</type>
+    <left>860</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num /</description>
+  </key>
+  <key id="89">
+    <scancode>37</scancode>
+    <label>*</label>
+    <type>standard</type>
+    <left>900</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num *</description>
+  </key>
+  <key id="90">
+    <scancode>4A</scancode>
+    <label>-</label>
+    <type>standard</type>
+    <left>940</left>
+    <top>40</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num -</description>
+  </key>
+  <key id="91">
+    <scancode>47</scancode>
+    <label>7</label>
+    <type>standard</type>
+    <left>820</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 7</description>
+  </key>
+  <key id="92">
+    <scancode>48</scancode>
+    <label>8</label>
+    <type>standard</type>
+    <left>860</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 8</description>
+  </key>
+  <key id="93">
+    <scancode>49</scancode>
+    <label>9</label>
+    <type>standard</type>
+    <left>900</left>
+    <top>80</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 9</description>
+  </key>
+  <key id="94">
+    <scancode>4E</scancode>
+    <label>+</label>
+    <type>standard</type>
+    <left>940</left>
+    <top>80</top>
+    <width>40</width>
+    <height>80</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num +</description>
+  </key>
+  <key id="95">
+    <scancode>4B</scancode>
+    <label>4</label>
+    <type>standard</type>
+    <left>820</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 4</description>
+  </key>
+  <key id="96">
+    <scancode>4C</scancode>
+    <label>5</label>
+    <type>standard</type>
+    <left>860</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 5</description>
+  </key>
+  <key id="97">
+    <scancode>4D</scancode>
+    <label>6</label>
+    <type>standard</type>
+    <left>900</left>
+    <top>120</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 6</description>
+  </key>
+  <key id="98">
+    <scancode>4F</scancode>
+    <label>1</label>
+    <type>standard</type>
+    <left>820</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 1</description>
+  </key>
+  <key id="99">
+    <scancode>50</scancode>
+    <label>2</label>
+    <type>standard</type>
+    <left>860</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 2</description>
+  </key>
+  <key id="100">
+    <scancode>51</scancode>
+    <label>3</label>
+    <type>standard</type>
+    <left>900</left>
+    <top>160</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 3</description>
+  </key>
+  <key id="101">
+    <scancode>1C</scancode>
+    <label>Ent</label>
+    <type>standard</type>
+    <left>940</left>
+    <top>160</top>
+    <width>40</width>
+    <height>80</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num Enter</description>
+  </key>
+  <key id="102">
+    <scancode>52</scancode>
+    <label>0</label>
+    <type>standard</type>
+    <left>820</left>
+    <top>200</top>
+    <width>80</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num 0</description>
+  </key>
+  <key id="103">
+    <scancode>53</scancode>
+    <label>.</label>
+    <type>standard</type>
+    <left>900</left>
+    <top>200</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>yes</repeating>
+    <extended>no</extended>
+    <description>Num .</description>
+  </key>
+  <key id="104">
+    <scancode>00</scancode>
+    <label>__</label>
+    <type>kbd_minimized</type>
+    <left>900</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Minimize Keyboard</description>
+  </key>
+  <!--<key id="104">
+    <scancode>00</scancode>
+    <label>__</label>
+    <type>standard</type>
+    <left>730</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Minimize Keyboard</description>
+  </key>
+  <key id="105">
+    <scancode>00</scancode>
+    <label>8</label>
+    <type>standard</type>
+    <left>770</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Increase Keyboard Size</description>
+  </key>
+  <key id="106">
+    <scancode>00</scancode>
+    <label>8</label>
+    <type>standard</type>
+    <left>810</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Decrease Keyboard Size</description>
+  </key>
+      <sequence>
+      <key_structure>
+        <sc>14</sc>
+        <ext>no</ext>
+        <st>downup</st>
+      </key_structure>
+      <key_structure>
+        <sc>12</sc>
+        <ext>no</ext>
+        <st>downup</st>
+      </key_structure>
+      <key_structure>
+        <sc>1F</sc>
+        <ext>no</ext>
+        <st>downup</st>
+      </key_structure>
+      <key_structure>
+        <sc>14</sc>
+        <ext>no</ext>
+        <st>downup</st>
+      </key_structure>
+    </sequence>
+  -->
+  
+  <key id="107">
+    <scancode>00</scancode>
+    <label>X</label>
+    <type>kbd_exit</type>
+    <left>940</left>
+    <top>0</top>
+    <width>40</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Exit Keyboard</description>
+  </key>
+   <key id="108">
+    <scancode>00</scancode>
+    <label>X</label>
+    <type>standard</type>
+    <left>0</left>
+    <top>0</top>
+    <width>100</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Word Completion</description>
+  </key>
+  <key id="109">
+    <scancode>00</scancode>
+    <label>X</label>
+    <type>standard</type>
+    <left>0</left>
+    <top>40</top>
+    <width>100</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Word Completion</description>
+  </key>
+  <key id="110">
+    <scancode>00</scancode>
+    <label>X</label>
+    <type>standard</type>
+    <left>0</left>
+    <top>80</top>
+    <width>100</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Word Completion</description>
+  </key>
+  <key id="111">
+    <scancode>00</scancode>
+    <label>X</label>
+    <type>standard</type>
+    <left>0</left>
+    <top>120</top>
+    <width>100</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Word Completion</description>
+  </key>
+  <key id="112">
+    <scancode>00</scancode>
+    <label>X</label>
+    <type>standard</type>
+    <left>0</left>
+    <top>160</top>
+    <width>100</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Word Completion</description>
+  </key>
+  <key id="113">
+    <scancode>00</scancode>
+    <label>X</label>
+    <type>standard</type>
+    <left>0</left>
+    <top>200</top>
+    <width>100</width>
+    <height>40</height>
+    <repeating>no</repeating>
+    <extended>no</extended>
+    <description>Word Completion</description>
+  </key> 
+</keyboard>
